@@ -1,6 +1,4 @@
 # RISE-Internship-Project-Submission
-# Create a README text for the project
-readme_content = """
 # Email Spam Detection using Machine Learning
 
 ## 📌 Project Overview
