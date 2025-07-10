@@ -26,6 +26,26 @@ Spam messages are a major issue in communication systems. This project aims to c
 - Python 3.x
 - Libraries: pandas, scikit-learn, nltk, tkinter
 
+## OUTPUT
+![image](https://github.com/user-attachments/assets/d2771038-e520-4162-8a64-427c5b4dfd89)
+![image](https://github.com/user-attachments/assets/dcd924bb-dec5-47d3-9613-f7dfaa2ee62a)
+
+
 Install required libraries:
-```bash
-pip install pandas scikit-learn nltk
+
+## ▶️ Running the App
+1. Download or clone this repository.
+2. Place `spam.csv` in the same folder as the Python file.
+3. Run the GUI script:
+
+
+## 📦 Files Included
+- `Project code.ipynb` – Main Tkinter GUI with spam detection
+- `spam.csv` – Dataset file
+- `Email_Spam_Detection_Project_Report.docx` – Project report
+- `Email_Spam_Detection_Presentation.pptx` – Presentation slides
+- `README.txt` – This file
+
+## 🙌 Credits
+Created by Mahi Prajapati under the RISE Internship by Tamizhan Skills.
+
